@@ -1,0 +1,6 @@
+{
+  "picBedDirName": "picture-bed",
+  "linkFormat": "markdown",
+  "createIfNotFound": true,
+  "searchRootPath": ""
+}

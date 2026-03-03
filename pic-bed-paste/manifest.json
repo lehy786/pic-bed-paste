@@ -1,0 +1,9 @@
+{
+	"id": "pic-bed-paste",
+	"name": "Pic Bed Paste",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Paste images into the nearest pic-bed directory found by searching upward from the current note.",
+	"author": "PicBedPaste",
+	"isDesktopOnly": false
+}
